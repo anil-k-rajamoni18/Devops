@@ -134,9 +134,9 @@ Basically introducing yourself to the GIT , it's only firsttime
 
 
 ```
- Usage: git config –global user.name “[name]”
+ Usage: git config –-global user.name “[name]”
  
- Usage: git config –global user.email “[email address]”
+ Usage: git config –-global user.email “[email address]”
 ```
 
 
@@ -258,7 +258,7 @@ This command is commbination of git fetch + git merge
 
 **git fetch** : fetch the changes from remote REPO -> LOCAL REPO
 
-**git mereg** : merge the changes from LOCAL REPO -> WORKDIR
+**git merge** : merge the changes from LOCAL REPO -> WORKDIR
 
 ```
 Usage: git pull [Repository Link]
